@@ -21,3 +21,10 @@ Thanks for [电子课程表](https://github.com/EnderWolf006/ElectronClassSchedu
 >**[希沃电教员美化指南](https://www.bilibili.com/video/BV1fp421R7oo/)**
 >
 >**[电教员指南](https://www.bilibili.com/video/BV1a5411c7qo)**
+>
+>**[鸿合软件使用须知](https://www.bilibili.com/video/BV1di4y117oV)**
+
+## Other
+[鸿合系统镜像](https://www.bilibili.com/video/BV1di4y117oV)
+
+[550W镜像](https://www.bilibili.com/video/BV1JM411e7H4)
