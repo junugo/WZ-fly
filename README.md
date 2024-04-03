@@ -13,6 +13,9 @@ Thanks for [电子课程表](https://github.com/EnderWolf006/ElectronClassSchedu
 -
 [bilibili](https://www.bilibili.com/video/BV1Wm411k7n8/)
 
+Thanks for [灵动课表](https://github.com/DuguSand/class_form)
+-
+[bilibili](https://www.bilibili.com/video/BV1b4421F77F)
 
 ---
 
