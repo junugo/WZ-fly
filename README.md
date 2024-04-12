@@ -5,7 +5,7 @@ Thanks for [希沃启动器](https://github.com/SRInternet/Seewo-Custom_Start)
 -
 [bilibili](https://space.bilibili.com/1969160969/channel/collectiondetail?sid=2260110) [关闭UAC](https://m.somode.com/jiaocheng/5912.html)
 
-Thanks for [原神抽人器](https://github.com/SRInternet/Seewo-Custom_Start)
+Thanks for [原神抽人器](https://github.com/cyanial/genshin-impact-picker)
 -
 [bilibili](https://www.bilibili.com/video/BV1Ec411k722/)
 
